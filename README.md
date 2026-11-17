@@ -1,7 +1,8 @@
 # Sistema de Controle de Academia de Ginástica
 
-Atividade Formativa de Engenharia de Software — UniRuy Wyden
-Professor: MSc Eng. Heleno Cardoso
+Atividade Formativa — UniRuy Wyden
+Disciplina: Engenharia de Software
+Docente: Heleno Cardoso
 
 Análise, especificação e modelagem de um sistema web para controle de uma academia (turmas, instrutores, alunos, monitores, matrículas e ausências).
 
@@ -29,4 +30,4 @@ Análise, especificação e modelagem de um sistema web para controle de uma aca
 
 ## Autoria
 
-Aluna: Lara — Turma 103513
+Aluna: Lara Hellen Marques
