@@ -136,12 +136,60 @@ Filtros: turma (obrigatório) e período (opcional). Opção de **imprimir** ou 
 
 ## 6. Telas do protótipo
 
-<!-- Depois de exportar as telas do Figma, coloque as imagens em anexos/ e remova os comentários das linhas abaixo.
+Telas exportadas do Figma. O protótipo navegável está em `07-prototipo-figma/prototipo.md`.
+
+### Acesso e menus por perfil
+
+**Login**
 
 ![Login](anexos/01-login.png)
+
+**Menu do Administrador**
+
 ![Menu do Administrador](anexos/02-menu-administrador.png)
+
+**Menu da Secretaria**
+
 ![Menu da Secretaria](anexos/03-menu-secretaria.png)
+
+**Menu do Instrutor**
+
 ![Menu do Instrutor](anexos/04-menu-instrutor.png)
+
+**Menu do Aluno**
+
 ![Menu do Aluno](anexos/05-menu-aluno.png)
+
+### Telas de cadastro
+
+**Cadastro de aluno**
+
 ![Cadastro de aluno](anexos/06-cadastro-aluno.png)
--->
+
+**Cadastro de instrutor**
+
+![Cadastro de instrutor](anexos/07-cadastro-instrutor.png)
+
+**Cadastro de turma**
+
+![Cadastro de turma](anexos/08-cadastro-turma.png)
+
+### Telas de consulta e diálogo
+
+**Matrícula e monitor**
+
+![Matrícula e monitor](anexos/09-matricula-e-monitor.png)
+
+**Registro de ausências**
+
+![Registro de ausências](anexos/10-registro-de-ausencias.png)
+
+**Minhas turmas e faltas (Aluno)**
+
+![Minhas turmas e faltas](anexos/11-minhas-turmas-e-faltas.png)
+
+### Layout de relatório
+
+**Relatório de ausências por turma**
+
+![Relatório de ausências por turma](anexos/12-relatorio-de-ausencias.png)
