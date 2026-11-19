@@ -2,8 +2,7 @@
 
 Protótipo navegável das principais telas do sistema, mostrando a organização e o fluxo de navegação.
 
-**Link do protótipo:** [https://www.figma.com/proto/lZXzgyLHeS56aJhtOmAyjq/Academia-de-Ginastica?node-id=2-2&p=f&t=laFl1Qo7nfo1MP8y-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/proto/lZXzgyLHeS56aJhtOmAyjq/Academia-de-Ginastica?node-id=2-2&p=f&t=laFl1Qo7nfo1MP8y-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
-
+**Link do protótipo:** [https://www.figma.com/proto/lZXzgyLHeS56aJhtOmAyjq/Academia-de-Ginastica?node-id=0-1&p=f&t=XfVEdZCJIXbUtnYe-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A2](https://www.figma.com/proto/lZXzgyLHeS56aJhtOmAyjq/Academia-de-Ginastica?node-id=0-1&p=f&t=XfVEdZCJIXbUtnYe-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A2)
 ## Como navegar
 
 1. Abra o link e clique em **Present** (modo de apresentação).
