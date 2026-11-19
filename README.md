@@ -14,12 +14,12 @@ Análise, especificação e modelagem de um sistema web para controle de uma aca
 | 2.2 Requisitos funcionais | `01-requisitos/requisitos-funcionais.md` | Concluído |
 | 2.3 Regras de negócio | `01-requisitos/regras-de-negocio.md` | Concluído |
 | 2.4 Requisitos não funcionais | `01-requisitos/requisitos-nao-funcionais.md` | Concluído |
-| 2.5 Diagramas de fluxo de dados | `02-dfd/` | Em andamento |
-| 2.6 Modelo lógico | `03-modelo-logico/` | A fazer |
-| 2.7 Modelo físico (DER) | `04-der/` | A fazer |
-| 2.8 DDL (MySQL) | `05-ddl/` | A fazer |
-| 2.9 Interface do sistema | `06-interfaces/` | A fazer |
-| 2.10 Prototipagem (Figma) | `07-prototipo-figma/` | A fazer |
+| 2.5 Diagramas de fluxo de dados | `02-dfd/` | Concluído |
+| 2.6 Modelo lógico | `03-modelo-logico/` | Concluído |
+| 2.7 Modelo físico (DER) | `04-der/` | Concluído |
+| 2.8 DDL (MySQL) | `05-ddl/` | Concluído |
+| 2.9 Interface do sistema | `06-interfaces/` | Concluído |
+| 2.10 Prototipagem (Figma) | `07-prototipo-figma/` | Concluído |
 
 ## Premissas adotadas
 
