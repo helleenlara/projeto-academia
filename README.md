@@ -121,7 +121,7 @@ Pontos que o enunciado não define e que foram decididos no projeto:
 
 - Os diagramas em **Mermaid** (DFD e fluxo de navegação) aparecem desenhados diretamente nas páginas do GitHub.
 - As imagens dos modelos e das telas ficam nas pastas `anexos` de cada etapa, e os arquivos editáveis do brModelo e do DBDesigner estão junto delas.
-- Protótipo no Figma: [abrir o protótipo](https://www.figma.com/proto/lZXzgyLHeS56aJhtOmAyjq/Academia-de-Ginastica?node-id=2-23&p=f&t=laFl1Qo7nfo1MP8y-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+- Protótipo no Figma: [abrir o protótipo](https://www.figma.com/proto/lZXzgyLHeS56aJhtOmAyjq/Academia-de-Ginastica?node-id=2-2&p=f&t=laFl1Qo7nfo1MP8y-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## Como executar o banco de dados
 
